@@ -1,0 +1,71 @@
+#main {
+    background-image: URL(https://www.sketchappsources.com/resources/source-image/macos-big-sur-safari-wallpaper.png);
+    text-align: center;
+}
+#index2 {
+    text-align:center;
+    background-image: URL(https://www.sketchappsources.com/resources/source-image/macos-big-sur-safari-wallpaper.png);
+}
+#check {
+   width: 50%;
+   height: 10%;
+}
+#send {
+    width: 100px;
+    height: 10px;
+ }
+
+.playersid{
+    background-color: rgb(47, 0, 255);
+    width:30%;
+    padding: 60px;
+    color: white;
+    border-radius: 10px;
+}
+h1 {
+    color:rgb(47, 0, 255)
+}
+hr {
+    color:black;
+    width: 30%;
+    size: 3px;
+}
+h2 {
+    font-size: 40px;
+    font-family:sans-serif;
+}
+input {
+    width:60%;
+}
+button {
+    width: 40%;
+    height:30%;
+    border-radius: 10px;
+    color:rgb(246, 246, 248);
+    background-color:blue;
+    font-weight: bolder;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 50px;
+float: none;
+text-align: center;
+}
+input:hover{
+	background-color: yellow;
+}
+.login_div1:hover{
+	border: 5px solid rgb(102, 6, 73);
+	width: 35%;
+}
+#number_1,#number_2
+{
+	color: tomato;
+	font-weight: bold;
+}
+button:hover {
+    text-decoration: underline;
+}
